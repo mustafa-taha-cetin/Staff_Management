@@ -1,0 +1,17 @@
+C:\Users\USER01\Desktop\C#\OOP_Projesi\OOP_Projesi\bin\Debug\OOP_Projesi.exe.config
+C:\Users\USER01\Desktop\C#\OOP_Projesi\OOP_Projesi\bin\Debug\OOP_Projesi.exe
+C:\Users\USER01\Desktop\C#\OOP_Projesi\OOP_Projesi\bin\Debug\OOP_Projesi.pdb
+C:\Users\USER01\Desktop\C#\OOP_Projesi\OOP_Projesi\obj\Debug\OOP_Projesi.csproj.AssemblyReference.cache
+C:\Users\USER01\Desktop\C#\OOP_Projesi\OOP_Projesi\obj\Debug\OOP_Projesi.Form1.resources
+C:\Users\USER01\Desktop\C#\OOP_Projesi\OOP_Projesi\obj\Debug\OOP_Projesi.Properties.Resources.resources
+C:\Users\USER01\Desktop\C#\OOP_Projesi\OOP_Projesi\obj\Debug\OOP_Projesi.csproj.GenerateResource.cache
+C:\Users\USER01\Desktop\C#\OOP_Projesi\OOP_Projesi\obj\Debug\OOP_Projesi.csproj.CoreCompileInputs.cache
+C:\Users\USER01\Desktop\C#\OOP_Projesi\OOP_Projesi\obj\Debug\OOP_Projesi.exe
+C:\Users\USER01\Desktop\C#\OOP_Projesi\OOP_Projesi\obj\Debug\OOP_Projesi.pdb
+C:\Users\USER01\Desktop\C#\OOP_Projesi\OOP_Projesi\bin\Debug\DataAccessLayer.dll
+C:\Users\USER01\Desktop\C#\OOP_Projesi\OOP_Projesi\bin\Debug\EntityLayer.dll
+C:\Users\USER01\Desktop\C#\OOP_Projesi\OOP_Projesi\bin\Debug\LogicLayer.dll
+C:\Users\USER01\Desktop\C#\OOP_Projesi\OOP_Projesi\bin\Debug\DataAccessLayer.pdb
+C:\Users\USER01\Desktop\C#\OOP_Projesi\OOP_Projesi\bin\Debug\EntityLayer.pdb
+C:\Users\USER01\Desktop\C#\OOP_Projesi\OOP_Projesi\bin\Debug\LogicLayer.pdb
+C:\Users\USER01\Desktop\C#\OOP_Projesi\OOP_Projesi\obj\Debug\OOP_Proj.5959F7F5.Up2Date
